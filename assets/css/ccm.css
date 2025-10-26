@@ -235,12 +235,12 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #537eba;
+  color: #f6862d;
   text-decoration: none;
 }
 a:hover {
   border-bottom-color: transparent;
-  color: #537eba;
+  color: #f6862d;
   text-decoration: none;
 }
 
@@ -1549,7 +1549,7 @@ header h6 + p {
 }
 header.major h2 {
   font-size: 1.75m;
-  color: #537eba;
+  color: #f6862d;
 }
 
 /* Form */
@@ -1596,7 +1596,7 @@ input[type=password]:focus,
 input[type=email]:focus,
 select:focus,
 textarea:focus {
-  border-color: #537eba;
+  border-color: #f6862d;
 }
 
 select {
@@ -1693,7 +1693,7 @@ input[type=radio]:checked + label:before {
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
-  border-color: #537eba;
+  border-color: #f6862d;
 }
 
 input[type=checkbox] + label:before {
@@ -2156,16 +2156,16 @@ input[type=submit]:hover,
 input[type=reset]:hover,
 input[type=button]:hover,
 .button:hover {
-  border-color: #537eba;
-  color: #537eba !important;
+  border-color: #f6862d;
+  color: #f6862d !important;
 }
 input[type=submit]:active,
 input[type=reset]:active,
 input[type=button]:active,
 .button:active {
   background-color: rgba(83, 126, 186, 0.1);
-  border-color: #537eba;
-  color: #537eba !important;
+  border-color: #f6862d;
+  color: #f6862d !important;
 }
 input[type=submit].icon,
 input[type=reset].icon,
@@ -2213,8 +2213,8 @@ input[type=submit].primary,
 input[type=reset].primary,
 input[type=button].primary,
 .button.primary {
-  background-color: #537eba;
-  border-color: #537eba;
+  background-color: #f6862d;
+  border-color: #f6862d;
   color: #ffffff !important;
 }
 input[type=submit].primary:hover,
@@ -2278,7 +2278,7 @@ input[type=button]:disabled,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background-color: #537eba;
+  background-color: #f6862d;
   background-attachment: scroll, scroll;
   background-position: top left, top left;
   background-repeat: repeat, no-repeat;
@@ -2768,7 +2768,7 @@ h6 br {
     top: 0;
     width: 100%;
     z-index: 10001;
-    background: #537eba;
+    background: #f6862d;
     color: #fff;
     min-width: 320px;
   }
@@ -2821,7 +2821,7 @@ h6 br {
   }
   #titleBar .toggle:before {
     text-decoration: none;
-    background: #537eba;
+    background: #f6862d;
     color: #ffffff;
     content: "\f0c9";
     display: block;
